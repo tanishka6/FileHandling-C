@@ -51,10 +51,8 @@ This task helped solidify my understanding of file operations in C, which are fo
 Project developed with reference to:
 
 YouTube tutorials (for visual demonstrations of file operations)
+GeeksforGeeks (for code structure and function documentation)
+ChatGPT (for guidance, explanation, and error handling support)
 
 OUTPUT:
-
-
-GeeksforGeeks (for code structure and function documentation)
-
-ChatGPT (for guidance, explanation, and error handling support)
+<img width="1482" height="756" alt="Image" src="https://github.com/user-attachments/assets/89338ca4-aa68-4b1e-ae80-5073f46fc3ff" />
