@@ -1,2 +1,8 @@
 # FileHandling-C
+*COMPANY*: CODTECH IT SOLUTIONS;
+*NAME*: TANISHKA GARIYA;
+*INTERN ID*: CT04DH2132;
+*DOMAIN*: C PROGRAMMING;
+*DURATION*: 4 WEEKS;
+*MENTOR*: NEELA SANTHOSH KUMAR
 Program demonstrating file handling operations in C
